@@ -14,7 +14,7 @@ Once its working again...
 
  * *deal* Deals the next card from the deck
  * *stack* *\<pile-number\>* move a card from that pile to the stacks at the top
- * *flip* *\<pile-number\>*reveal the top card of a pile if it is upside down
+ * *flip* *\<pile-number\>* reveal the top card of a pile if it is upside down
  * *move* *\<number-cards\>* *\<pile-number-1\>* *\<pile-number-2\>* move a number of cards from 
    one pile to another, other from the dealt pile.
  * *menu* options menu
